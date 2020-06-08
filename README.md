@@ -6,17 +6,18 @@ Permite cadastrar pontos de coleta assim como itens de reciclagem que este ponto
 
 Ministrado pela RocketSeat
 
-A aplicação possui 3 modulos:
+A aplicação possui 3 modulos: 
 
-    server
+- server
 
-    Backend da aplicação contruído com NodeJs, banco de dados Sqlite3.
+  Backend da aplicação contruído com NodeJs, banco de dados Sqlite3.
+  
+- Web
 
-    Web
+  Frontend da aplicação onde possui o cadastro dos pontos de coleta.
+  
+- Mobile
 
-    Frontend da aplicação onde possui o cadastro dos pontos de coleta.
+  Verão mobile da aplicação onde possui listagem dos pontos de coleta e seus detalhes.
 
-    Mobile
-
-    Verão mobile da aplicação onde possui listagem dos pontos de coleta e seus detalhes.
-
+[Alt text](ecoleta.PNG?raw=true "Optional Title")
