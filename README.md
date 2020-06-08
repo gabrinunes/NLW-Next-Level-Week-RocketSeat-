@@ -20,4 +20,3 @@ A aplicação possui 3 modulos:
 
   Verão mobile da aplicação onde possui listagem dos pontos de coleta e seus detalhes.
 
-[Alt text](ecoleta.PNG?raw=true "Optional Title")
